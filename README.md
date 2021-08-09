@@ -1,1 +1,3 @@
 # randomJoke
+
+Have fun!
